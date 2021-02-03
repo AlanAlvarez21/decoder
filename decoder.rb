@@ -10,6 +10,7 @@ KEY = {
   9 => 'I',
   25 => 'Y',
   26 => 'Z'
+  27 => 'Hola'
 }
 
 # Define a method that takes an array of numbers to decode.
